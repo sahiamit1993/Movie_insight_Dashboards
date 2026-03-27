@@ -5,8 +5,9 @@ This project presents a **comprehensive Power BI dashboard** analyzing the movie
 
 The dashboard is divided into two key sections:
 - 📊 Financial Analysis Dashboard  
-- ⭐ Ratings Analysis Dashboard  
-- and more
+- ⭐ Ratings Analysis Dashboard 
+- **more**
+
 It provides deep insights into **profitability, ROI, ratings, genres, and production performance**.
 
 ---
@@ -56,19 +57,6 @@ It provides deep insights into **profitability, ROI, ratings, genres, and produc
 - **DAX** – Calculated Measures & KPIs  
 - **Data Modeling** – Relationships & Schema Design  
 
---- 
-
-
----
-
-## 📸 Dashboard Preview
-
-### 📊 Financial Analysis Dashboard
-
-
-### ⭐ Ratings Analysis Dashboard
-![Ratings Dashboard](Ratings Analysis Dashboard.png)
-
 ---
 
 ## 💡 Key Learnings
@@ -97,7 +85,7 @@ It provides deep insights into **profitability, ROI, ratings, genres, and produc
 
 ## 👨‍💻 Author
 **Amit Kumar**  
-Data Analyst | Power BI | SQL | Python  
+Data Analyst | Power BI | Tableau | SQL | Python  
 
 ---
 
