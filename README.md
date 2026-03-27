@@ -1,93 +1,105 @@
-# 🎬 Insights in the Movie Industry (Power BI Dashboard)
+# 🎬 Movie Industry Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
-This project showcases an interactive **Power BI dashboard** designed to analyze key trends in the movie industry. It provides insights into revenue, ratings, genres, and overall movie performance to support data-driven decision-making.
+This project presents a **comprehensive Power BI dashboard** analyzing the movie industry from both **financial and ratings perspectives**.  
+
+The dashboard is divided into two key sections:
+- 📊 Financial Analysis Dashboard  
+- ⭐ Ratings Analysis Dashboard  
+
+It provides deep insights into **profitability, ROI, ratings, genres, and production performance**.
 
 ---
 
-## 🎯 Objectives
-- Analyze overall movie industry performance  
-- Identify top-performing movies and genres  
-- Understand relationship between ratings and revenue  
-- Track year-wise trends and growth patterns  
+## 🎯 Business Objectives
+- Analyze movie profitability and revenue trends  
+- Identify high-performing languages, genres, and production companies  
+- Understand relationship between ratings and box office performance  
+- Provide data-driven insights for decision-making in the entertainment industry  
 
 ---
 
-## 📊 Dashboard Features
-- 📈 Revenue Analysis (Total Revenue, Average Revenue)
-- 🎭 Genre-wise Performance Analysis
-- ⭐ Ratings Distribution (IMDb / Audience Ratings)
-- 🎬 Top Movies by Revenue and Ratings
-- 📅 Year-wise Trends and Growth Insights
+## 📊 Dashboard 1: Financial Analysis
+
+### 🔹 Key KPIs
+- Total Movies: **940**
+- Total Profit: **$139.6K**
+- Total Worldwide Gross: **$237.5K**
+- Total Budget: **$97.8K**
+
+### 🔹 Insights
+- Profit trends show fluctuations across release years with peak growth around early 2000s  
+- Certain languages like **Japanese and German** deliver higher ROI  
+- **Canada and USA** are top filming locations contributing to profits  
+- A few production companies dominate profit margins (e.g., Oceanview Productions)  
+
+---
+
+## ⭐ Dashboard 2: Ratings Analysis
+
+### 🔹 Key KPIs
+- Average IMDb Rating: **5.46**
+- Average Runtime: **129.78 minutes**
+- Total Movies: **940**
+
+### 🔹 Insights
+- Ratings are moderately distributed, with most movies scoring between **5–6**  
+- **Sci-Fi and Thriller genres** have higher average ratings  
+- Revenue does not always correlate with higher ratings  
+- Production companies show varying performance in terms of ratings  
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- Power BI (Dashboard Development)
-- Power Query (Data Cleaning & Transformation)
-- DAX (Measures & Calculations)
-- Excel / CSV (Data Source)
+- **Power BI** – Dashboard Development  
+- **Power Query** – Data Transformation  
+- **DAX** – Calculated Measures & KPIs  
+- **Data Modeling** – Relationships & Schema Design  
 
----
+--- 
 
-## 📂 Project Structure
-Movie-Industry-Insights/
-│── Insights_in_the_Movie_Industry.pbix
-│── README.md
-
----
-
-## 🔍 Key Insights
-- A small number of blockbuster movies contribute to a large portion of total revenue  
-- Some genres consistently outperform others in terms of revenue  
-- High ratings do not always correlate with high box office success  
-- The movie industry shows a steady growth trend over time  
-
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository  
-2. Open it using **Power BI Desktop**  
-3. Explore the dashboard using filters and slicers  
-4. Analyze insights interactively  
 
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here after uploading images)
 
-Example:
-![Dashboard Screenshot](images/dashboard.png)
+### 📊 Financial Analysis Dashboard
+![Financial Dashboard](images/financial_dashboard.png)
+
+### ⭐ Ratings Analysis Dashboard
+![Ratings Dashboard](images/ratings_dashboard.png)
 
 ---
 
-## 💡 Skills Demonstrated
-- Data Cleaning & Transformation  
-- Data Visualization  
-- Business Intelligence  
-- Dashboard Design  
-- Analytical Thinking  
+## 💡 Key Learnings
+- Built interactive dashboards using advanced **DAX measures**  
+- Applied **data storytelling techniques** for business insights  
+- Designed user-friendly visuals for better decision-making  
+- Analyzed multi-dimensional data (genre, language, company, ratings)  
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file  
+2. Open using **Power BI Desktop**  
+3. Use filters (Release Year, Language, Category)  
+4. Explore interactive visuals  
 
 ---
 
 ## 📈 Future Enhancements
-- Integrate real-time data sources  
-- Add predictive analytics  
-- Improve dashboard UI/UX  
-- Publish dashboard to Power BI Service  
+- Add predictive analytics (forecasting revenue)  
+- Integrate real-time movie datasets  
+- Improve UI with advanced Power BI visuals  
+- Deploy to Power BI Service  
 
 ---
 
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests.
-
----
-
-## 📬 Contact
+## 👨‍💻 Author
 **Amit Kumar**  
 Data Analyst | Power BI | SQL | Python  
 
 ---
 
 ## ⭐ Support
-If you found this project useful, please give it a ⭐ on GitHub!
+If you found this project helpful, please give it a ⭐ on GitHub!
